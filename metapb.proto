@@ -6,3 +6,4 @@ message Node {
     /*optional string address = 2;*/
     // more attributes......
 }
+
