@@ -5,6 +5,14 @@ package metapb;
 message Node {
     optional uint64 node_id = 1;
     /*optional string address = 2;*/
+    optional string address = 2;*/
+    /*optional string address = 2;*/
+    optional string address = 2;*/
+    /*optional string address = 2;*/
+     more attributes......
     // more attributes......
+    /*optional string address = 2;*/
+    /*optional string address = 2;*/
+     more attributes......
 }
 
