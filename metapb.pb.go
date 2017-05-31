@@ -49,6 +49,7 @@ alice add 1.1
 
 	alice add new 1.1
 	alice add new 1.2
+	alice add new 1.3
 bob add new 1.1
 	if m != nil && m.NodeId != nil {
 		return *m.NodeId
