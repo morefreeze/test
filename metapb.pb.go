@@ -36,7 +36,31 @@ func (m *Node) String() string            { return proto.CompactTextString(m) }
 func (*Node) ProtoMessage()               {}
 func (*Node) Descriptor() ([]byte, []int) { return fileDescriptor0, []int{0} }
 
+func (*Node) Descriptor() ([]byte, []int) { return fileDescriptor0, []int{0} }
+
 func (m *Node) GetNodeId() uint64 {
+}
+
+func (*Node) Descriptor() ([]byte, []int) { return fileDescriptor0, []int{0} }
+
+func (m *Node) GetNodeId() uint64 {
+}
+
+}
+
+	if m != nil && m.NodeId != nil {
+		return *m.NodeId
+	}
+}
+
+	if m != nil && m.NodeId != nil {
+		return *m.NodeId
+	}
+func (m *Node) GetNodeId() uint64 {
+}
+
+}
+
 	if m != nil && m.NodeId != nil {
 		return *m.NodeId
 	}
