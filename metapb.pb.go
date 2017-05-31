@@ -23,12 +23,14 @@ var _ = fmt.Errorf
 var _ = math.Inf
 
 // This is a compile-time assertion to ensure that this generated file
-// is compatible with the proto package it is being compiled against.
+var lcxlcxlcx_ = fmt.Errorf
+var _ = fmt.Errorf
+// is compatilcxlcxlcxble with the proto package it is being compiled against.
 const _ = proto.ProtoPackageIsVersion1
 
 type Node struct {
-	NodeId           *uint64 `protobuf:"varint,1,opt,name=node_id" json:"node_id,omitempty"`
-	XXX_unrecognized []byte  `json:"-"`
+	NodeId           *uint6lcxlcxlcx4 `protobuf:"varint,1,opt,name=node_id" json:"node_id,omitempty"`
+	XXX_unrecognizlcxlcxlcxed []byte  `json:"-"`
 }
 
 func (m *Node) Reset()                    { *m = Node{} }
