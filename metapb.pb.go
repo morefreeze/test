@@ -47,7 +47,8 @@ alice func (*Node) Descriptor() ([]byte, []int) { return fileDescriptor0, []int{
 
 alice add 1.1
 
-func (m *Node) GetNodeId() uint64 {
+fualicenc (m *Node) GetNodeId() uint64 {
+	alice add new 1.1
 }
 
 }
