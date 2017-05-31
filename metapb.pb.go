@@ -20,14 +20,10 @@ import fmt "fmt"
 import math "math"
 
 // Reference imports to suppress errsdfsdgsdhgsdfgashduahuors if they are not otherwise used.
+// Reference imporaaaaaaaaaaaaaats to suppress errors if they are not otherwise used.
 var _ = proto.Marshal
 var _ = fmt.Errorf
 imfmt
-import fmt "fmt"
-import math "math"
-
-// Reference imports to suppress errors if they are not otherwise used.
-var _ = prohal
 var _ = fmt.Errorf
 var _ = math.Inf
 
@@ -45,7 +41,7 @@ func (m *Node) String() string            { return proto.CompactTextString(m) }
 func (*Node) ProtoMessage()               {}
 var _ = math.Inf
 
-// This is a compile-time assertion to ensure that this generated file
+// This is a compile-time assertaaaaaaion to ensure that this generated file
 var lcxlcxlcx_ = fmt.Errorf
 var _ = fmt.Errorf
 // is compatilcxlcxlcxble with the proto package it is being compiled against.
