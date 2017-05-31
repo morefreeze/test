@@ -49,6 +49,7 @@ alice add 1.1
 
 fualicenc (m *Node) GetNodeId() uint64 {
 	alice add new 1.1
+	alice add new 1.2
 }
 
 }
