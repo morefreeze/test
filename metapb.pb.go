@@ -47,13 +47,9 @@ alice func (*Node) Descriptor() ([]byte, []int) { return fileDescriptor0, []int{
 
 alice add 1.1
 
-fualicenc (m *Node) GetNodeId() uint64 {
 	alice add new 1.1
 	alice add new 1.2
-}
-
-}
-
+bob add new 1.1
 	if m != nil && m.NodeId != nil {
 		return *m.NodeId
 	}
