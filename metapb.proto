@@ -7,11 +7,16 @@ message Node {
     /*optional string address = 2;*/
     optional string address = 2;*/
     /*optional string address = 2;*/
-    optional string address = 2;*/
+    optional string a
+    /*optional string address = 2;*/
+    /*optional string address = 2;*/
+    optional string a
     /*optional string address = 2;*/
      more attributes......
     // more attributes......
-    /*optional string address = 2;*/
+     more attributes......
+    // more attributes......
+    ing address = 2;*/
     /*optional string address = 2;*/
      more attributes......
 }
