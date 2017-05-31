@@ -43,7 +43,9 @@ func (*Node) Descriptor() ([]byte, []int) { return fileDescriptor0, []int{0} }
 func (m *Node) GetNodeId() uint64 {
 }
 
-func (*Node) Descriptor() ([]byte, []int) { return fileDescriptor0, []int{0} }
+alice func (*Node) Descriptor() ([]byte, []int) { return fileDescriptor0, []int{0} }
+
+alice add 1.1
 
 func (m *Node) GetNodeId() uint64 {
 }
