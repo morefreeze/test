@@ -3,6 +3,7 @@ package metapb;
 
 
 message Node {
+alice add 1
     optional uint64 node_id = 1;
     /*optional string address = 2;*/
     // more attributes......
